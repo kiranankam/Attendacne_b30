@@ -76,4 +76,4 @@ def findEncodings(images):
 
 
 def markAttendance(name):
-    with open('Attendance.csv', 'r+') as
+    print("in fun")
